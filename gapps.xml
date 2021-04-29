@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote name="gitrip" fetch="http://git.rip/" />
+	<!-- <remote name="gitrip" fetch="http://git.rip/" /> https://github.com/phhusson/treble_manifest/issues/13 -->
+	<remote name="gitrip" fetch="http://84.38.177.154/" />
 
     <project path="vendor/partner_gms" name="mtkgms/partner_gms" remote="gitrip" revision="11" />
 
